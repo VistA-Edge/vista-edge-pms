@@ -19,7 +19,7 @@ A recorded webinar of the VistA-Edge PMS can be viewed at https://youtu.be/eE4dp
 
 
 ## Update 
-Due to unforeseeable reasons further updates were not released but, newer versions (latest version 2.5.19.x ) of the VistA-Edge PMS are still available for Free for Medical Practices/ Clients. For more information please contact us by visiting https://vista-edge.com and filling out the contact us form.
+Due to unforeseeable reasons further updates were not released but, **newer versions** (latest version 2.5.19.x ) of the VistA-Edge PMS are still **available as Free Downloads for Medical Practices/ Clients**. For more information please contact us by visiting https://vista-edge.com and filling out the contact us form.
 
 ## Screenshots
 ![Login](https://sourceforge.net/p/vista-edgepms/screenshot/250614.jpg "Login")
